@@ -10,3 +10,15 @@ E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice
 E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\CQRS\CQRS.Core\obj\Debug\net7.0\refint\CQRS.Core.dll
 E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.pdb
 E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\CQRS\CQRS.Core\obj\Debug\net7.0\ref\CQRS.Core.dll
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\bin\Debug\net7.0\CQRS.Core.deps.json
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\bin\Debug\net7.0\CQRS.Core.dll
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\bin\Debug\net7.0\CQRS.Core.pdb
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.AssemblyReference.cache
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfoInputs.cache
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfo.cs
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.dll
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\refint\CQRS.Core.dll
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\CQRS.Core.pdb
+E:\1- freelancing path\Practical Work After Courses\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\src\CQRS\CQRS.Core\obj\Debug\net7.0\ref\CQRS.Core.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj": {}
+    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj": {}
   },
   "projects": {
-    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj": {
+    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj",
+        "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj",
         "projectName": "PostService.Command.Domain",
-        "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj",
+        "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Domain\\PostService.Command.Domain.csproj",
         "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-        "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Domain\\obj\\",
+        "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
+      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
       "projectName": "PostService.Query.Domain",
-      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
+      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.Domain\\obj\\",
+      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

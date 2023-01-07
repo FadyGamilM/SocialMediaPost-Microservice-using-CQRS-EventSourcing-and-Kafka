@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUKT3Pc9WDRK4yzAjoHRep58pI160SUZkMgb1WPM4ygBfJZEiwtjFsEUvR41L6JU3lUuhIVhZ91XkhVAQP447w==",
+  "dgSpecHash": "u7JJj/0eD2TkyfbW2+7a0JgmMqxPVwR9gqWJse1B0CU/LbPTseLhyOCNuOn4s8mNXtVs/aogMmICR6SwcqMqBA==",
   "success": true,
-  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
+  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\confluent.kafka\\1.9.4-rc1\\confluent.kafka.1.9.4-rc1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

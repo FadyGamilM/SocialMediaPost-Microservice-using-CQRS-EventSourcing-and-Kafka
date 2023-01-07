@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpgn5mhtLxP4gTOYZUT6zvQvuLUM0fq5qP8Z7IWD46CLWg8KnTyTnb1FyIxxcMESzy9QECMiLBWtAjxwG+x+PA==",
+  "dgSpecHash": "OobLztYMesipEQKO7YEcYki1XCI7mBtVl5fKMnv8dg9pQ6i3iGLywKvB/NFu8bngCAMIbuVrpUgyUvHssqOoRA==",
   "success": true,
-  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.Infrastructure\\PostService.Query.Infrastructure.csproj",
+  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.Infrastructure\\PostService.Query.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

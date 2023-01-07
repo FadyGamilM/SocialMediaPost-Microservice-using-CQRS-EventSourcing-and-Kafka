@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\CQRS.Core.csproj": {}
+    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\CQRS.Core.csproj": {}
   },
   "projects": {
-    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\CQRS.Core.csproj": {
+    "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
+        "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
         "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-        "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\obj\\",
+        "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

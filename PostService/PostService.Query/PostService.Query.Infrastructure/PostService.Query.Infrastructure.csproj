@@ -5,8 +5,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1"/>
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0"/>
-    <PackageReference Include="Confluent.Kafka" Version="1.9.4-rc1"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
+    <PackageReference Include="Confluent.Kafka" Version="1.9.4-rc1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PostService.Query.Application\PostService.Query.Application.csproj" />
   </ItemGroup>
 </Project>

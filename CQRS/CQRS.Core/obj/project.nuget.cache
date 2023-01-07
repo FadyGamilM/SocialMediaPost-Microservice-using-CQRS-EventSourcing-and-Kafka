@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMRpLBsKn5Iqks7r13O1SCW1Wx18xYB757FGpGJP9KHPgtG4VEECFITtjPRSe6zyNApNXSJjAWf1HltMXmYRwg==",
+  "dgSpecHash": "BYKDdlQX+0Vd2Vj0REF89Wzb4knVGLaR70BOa9NnduZR9Ic7ihLCAsqIE2BdDOokt1pYLOr7J72rcK8ugLk1Kw==",
   "success": true,
-  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
+  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\CQRS\\CQRS.Core\\CQRS.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

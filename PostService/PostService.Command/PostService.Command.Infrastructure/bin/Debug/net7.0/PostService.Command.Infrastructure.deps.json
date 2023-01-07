@@ -10,7 +10,8 @@
         "dependencies": {
           "Confluent.Kafka": "1.9.4-RC1",
           "Microsoft.Extensions.Options": "7.0.0",
-          "MongoDB.Driver": "2.18.0"
+          "MongoDB.Driver": "2.18.0",
+          "PostService.Command.Application": "1.0.0"
         },
         "runtime": {
           "PostService.Command.Infrastructure.dll": {}
@@ -312,6 +313,19 @@
             "fileVersion": "0.6.2.0"
           }
         }
+      },
+      "PostService.Command.Application/1.0.0": {
+        "dependencies": {
+          "PostService.Command.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PostService.Command.Application.dll": {}
+        }
+      },
+      "PostService.Command.Domain/1.0.0": {
+        "runtime": {
+          "PostService.Command.Domain.dll": {}
+        }
       }
     }
   },
@@ -467,6 +481,16 @@
       "sha512": "sha512-jPao/LdUNLUz8rn3H1D8W7wQbZsRZM0iayvWI4xGejJg3XJHT56gcmYdgmCGPdJF1UEBqUjucCRrFB+4HbJsbw==",
       "path": "zstdsharp.port/0.6.2",
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
+    },
+    "PostService.Command.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostService.Command.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

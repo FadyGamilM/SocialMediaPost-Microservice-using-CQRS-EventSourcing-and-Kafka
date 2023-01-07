@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfU5IUGI5Z4/o8J4qdC7/2OkHStYm7jWjAt6PlglYRGhhvK9UxdvywrwF2RL0pisY8qJqIh0LTBxlRQEROiqWA==",
+  "dgSpecHash": "asl2kt6/kpQmxJiis6GV7ae/XNeOJxA+FbDx5NX8htm32rZ7YWcYX6ObpZ6dFo2fdwIGIzpQh1nb8sEEzewq7w==",
   "success": true,
-  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.API\\PostService.Query.API.csproj",
+  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.API\\PostService.Query.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

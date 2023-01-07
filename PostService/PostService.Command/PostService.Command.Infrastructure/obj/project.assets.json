@@ -438,6 +438,29 @@
         "runtime": {
           "lib/net6.0/ZstdSharp.dll": {}
         }
+      },
+      "PostService.Command.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PostService.Command.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostService.Command.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostService.Command.Application.dll": {}
+        }
+      },
+      "PostService.Command.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PostService.Command.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostService.Command.Domain.dll": {}
+        }
       }
     }
   },
@@ -1038,13 +1061,24 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "PostService.Command.Application/1.0.0": {
+      "type": "project",
+      "path": "../PostService.Command.Application/PostService.Command.Application.csproj",
+      "msbuildProject": "../PostService.Command.Application/PostService.Command.Application.csproj"
+    },
+    "PostService.Command.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PostService.Command.Domain/PostService.Command.Domain.csproj",
+      "msbuildProject": "../PostService.Command.Domain/PostService.Command.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Confluent.Kafka >= 1.9.4-rc1",
       "Microsoft.Extensions.Options >= 7.0.0",
-      "MongoDB.Driver >= 2.18.0"
+      "MongoDB.Driver >= 2.18.0",
+      "PostService.Command.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1054,11 +1088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
+      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
       "projectName": "PostService.Command.Infrastructure",
-      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
+      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\obj\\",
+      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1077,7 +1111,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Application\\PostService.Command.Application.csproj": {
+              "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Application\\PostService.Command.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

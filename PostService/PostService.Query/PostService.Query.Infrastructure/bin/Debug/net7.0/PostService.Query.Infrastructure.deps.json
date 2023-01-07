@@ -10,7 +10,8 @@
         "dependencies": {
           "Confluent.Kafka": "1.9.4-RC1",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.1",
-          "Microsoft.Extensions.Hosting": "7.0.0"
+          "Microsoft.Extensions.Hosting": "7.0.0",
+          "PostService.Query.Application": "1.0.0"
         },
         "runtime": {
           "PostService.Query.Infrastructure.dll": {}
@@ -1034,6 +1035,19 @@
             "fileVersion": "5.0.20.51904"
           }
         }
+      },
+      "PostService.Query.Application/1.0.0": {
+        "dependencies": {
+          "PostService.Query.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PostService.Query.Application.dll": {}
+        }
+      },
+      "PostService.Query.Domain/1.0.0": {
+        "runtime": {
+          "PostService.Query.Domain.dll": {}
+        }
       }
     }
   },
@@ -1616,6 +1630,16 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+    },
+    "PostService.Query.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostService.Query.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

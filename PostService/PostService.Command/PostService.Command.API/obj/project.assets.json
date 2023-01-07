@@ -107,6 +107,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "PostService.Command.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PostService.Command.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostService.Command.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostService.Command.Application.dll": {}
+        }
+      },
+      "PostService.Command.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PostService.Command.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostService.Command.Domain.dll": {}
+        }
       }
     }
   },
@@ -451,11 +474,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "PostService.Command.Application/1.0.0": {
+      "type": "project",
+      "path": "../PostService.Command.Application/PostService.Command.Application.csproj",
+      "msbuildProject": "../PostService.Command.Application/PostService.Command.Application.csproj"
+    },
+    "PostService.Command.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PostService.Command.Domain/PostService.Command.Domain.csproj",
+      "msbuildProject": "../PostService.Command.Domain/PostService.Command.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.1",
+      "PostService.Command.Application >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -466,11 +500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.API\\PostService.Command.API.csproj",
+      "projectUniqueName": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.API\\PostService.Command.API.csproj",
       "projectName": "PostService.Command.API",
-      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.API\\PostService.Command.API.csproj",
+      "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.API\\PostService.Command.API.csproj",
       "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Command\\PostService.Command.API\\obj\\",
+      "outputPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -489,7 +523,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Application\\PostService.Command.Application.csproj": {
+              "projectPath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Application\\PostService.Command.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

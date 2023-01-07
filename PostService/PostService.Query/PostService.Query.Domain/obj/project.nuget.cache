@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHxOOGNPg53rkhp6TDWnnV5JToFNnTHHArR33heMBP3iB3z1Hoci/pwZ7zqy6bkZamMbqK+Czj+Fj8Y66rZepw==",
+  "dgSpecHash": "1DPq+/WozH2ETFnD7vBGtfVRYtxbJg4Uyd8ugowDVZa2MnIIalfiwDq8+l2csTy32mD9piCDKNWhMUU6wkHk1A==",
   "success": true,
-  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
+  "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Query\\PostService.Query.Domain\\PostService.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
