@@ -8,4 +8,4 @@ public class PostDeletedEvent: BaseEvent
         
     }
     // we don't need the post id because at this stage we already know which post we are handling
-}
+} 
