@@ -439,10 +439,24 @@
           "lib/net6.0/ZstdSharp.dll": {}
         }
       },
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MongoDB.Driver": "2.18.0"
+        },
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
       "PostService.Command.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CQRS.Core": "1.0.0",
           "PostService.Command.Domain": "1.0.0"
         },
         "compile": {
@@ -1061,6 +1075,11 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../CQRS/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../../CQRS/CQRS.Core/CQRS.Core.csproj"
     },
     "PostService.Command.Application/1.0.0": {
       "type": "project",

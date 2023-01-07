@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u7JJj/0eD2TkyfbW2+7a0JgmMqxPVwR9gqWJse1B0CU/LbPTseLhyOCNuOn4s8mNXtVs/aogMmICR6SwcqMqBA==",
+  "dgSpecHash": "fn7BINBstoMR8T5ittUb7aTdGaTZiX6kRJ3R7cESdMD96+hCk51qr4Rbfn/3Ribt6opx89OW9+oUDOBg+kJfpg==",
   "success": true,
   "projectFilePath": "E:\\1- freelancing path\\Practical Work After Courses\\SocialMediaPost-Microservice-using-CQRS-EventSourcing-and-Kafka\\src\\PostService\\PostService.Command\\PostService.Command.Infrastructure\\PostService.Command.Infrastructure.csproj",
   "expectedPackageFiles": [

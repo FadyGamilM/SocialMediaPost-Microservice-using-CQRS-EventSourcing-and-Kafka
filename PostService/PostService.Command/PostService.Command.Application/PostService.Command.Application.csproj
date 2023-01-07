@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PostService.Command.Domain\PostService.Command.Domain.csproj" />
+    <ProjectReference Include="..\..\..\CQRS\CQRS.Core\CQRS.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
