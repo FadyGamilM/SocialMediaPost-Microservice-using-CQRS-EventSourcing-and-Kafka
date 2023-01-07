@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tQr2dQzLqsrRb34M5B3DjHWdl/Vf3aO1wKfk21r1AN0=",
+  "Source": "PostService.Query.API",
+  "BasePath": "_content/PostService.Query.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

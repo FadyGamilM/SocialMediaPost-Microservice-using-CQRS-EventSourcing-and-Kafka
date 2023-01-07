@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s9nWhDpo2Fri2KthIbYHkaJpPnZM7pjuMxSvq36qM+U=",
+  "Source": "PostService.Command.API",
+  "BasePath": "_content/PostService.Command.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
